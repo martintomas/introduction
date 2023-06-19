@@ -58,6 +58,7 @@ group :development, :test do
   gem "capistrano-passenger"
   gem "capistrano-rvm"
   gem "ed25519"
+  gem "bcrypt_pbkdf"
 end
 
 group :development do
